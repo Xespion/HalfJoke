@@ -11,6 +11,7 @@ The second collection stores only one document that stores the id of the last tw
 ## Commands
 **#hj**
 With this hashtag you tell the bot to reply to your mention into its feed with a half joke that is selected randomly within the database.
+
 **#sg** 
 With this hashtag you tell the bot to store the rest of the text in the mention to the database so it can use it later.
 
